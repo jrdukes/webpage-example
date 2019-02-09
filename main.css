@@ -1,0 +1,22 @@
+.container-a {
+  background-color: #12b11a;
+  height: 30vh;
+  width: 50vw;
+}
+
+.container-b {
+  background-color: #320eb1;
+  height: 30vh;
+  width: 50vw;
+}
+
+.container-c {
+  background-color: #ff0202;
+  height: 30vh;
+  width: 50vw;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: row;
+}
